@@ -20,7 +20,7 @@ This program is an interactive list generator that will create a password wordli
 
 Run the interactive program with:
 
-```$python setup.py```
+```$python passlist.py```
 
 The password list will be created in the same folder in .txt
 
