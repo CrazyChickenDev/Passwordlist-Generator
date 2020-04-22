@@ -26,3 +26,5 @@ The password list will be created in the same folder in .txt
 
 Requirements
 Python 3
+
+Credits: https://github.com/utpalbalse
