@@ -1,3 +1,4 @@
+![Readme image](https://github.com/CrazyChickenDev/Passwordlist-Generator/image/generator.png)
 # Passwordlist-Generator
 
 A simple python program that takes in a collection of data given to it, then generates possible password combinations that can be gotten from those details that were fed into it. This program was created for educational purposes and as a security research tool.
