@@ -17,7 +17,7 @@ It's quite known that humans include personal information in their passwords, th
 - The name of the website the password is for
 
 ```
- This program is an interactive list generator that will create a password wordlist that can be used in penetration testing and forensic investigations to crack passwords:big_grin:.
+ This program is an interactive list generator that will create a password wordlist that can be used in penetration testing and forensic investigations to crack passwords:grin:.
 ```
 
 ### Usage
