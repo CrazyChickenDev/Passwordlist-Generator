@@ -3,7 +3,7 @@
 
 A simple python program that takes in a collection of data given to it, then generates possible password combinations that can be gotten from those details that were fed into it. This program was created for educational purposes and as a security research tool.
 
-### About 
+### About:grin:
 
 It's quite known that humans include personal information in their passwords, this includes information that can often be found on social media accounts and these can potentially be used by cybercriminals for malicious purposes to crack passwords. Examples of such information include:
 
@@ -17,7 +17,7 @@ It's quite known that humans include personal information in their passwords, th
 - The name of the website the password is for
 
 ```
- This program is an interactive list generator that will create a password wordlist that can be used in penetration testing and forensic investigations to crack passwords:grin:.
+ This program is an interactive list generator that will create a password wordlist that can be used in penetration testing and forensic investigations to crack passwords
 ```
 
 ### Usage
