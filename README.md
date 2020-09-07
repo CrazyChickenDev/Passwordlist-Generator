@@ -1,30 +1,31 @@
-# PassList-Generator
+# Passwordlist-Generator
 
-A python script that takes in a collection of data given to it , then generates possible password combinations that can be gotten from those details
+A simple python program that takes in a collection of data given to it, then generates possible password combinations that can be gotten from those details that were fed into it. This program was created for educational purposes and as a security research tool.
 
-# About 
+### About 
 
-Humans include personal information in their passwords, information that can often be found on social media accounts, and can potentially be used by cybercriminals to crack passwords, such as:
+It's quite known that humans include personal information in their passwords, this includes information that can often be found on social media accounts and these can potentially be used by cybercriminals for malicious purposes to crack passwords. Examples of such information include:
 
-Their own name or the name of a family member
-Their pet’s name
-Their birthday
-Words related to their hobby
-Part of their home address
-The name of their favorite book or movie
-Celebrity names
-The name of the website the password is for
-This program is an interactive list generator that will create a password wordlist and can be used in penetration testing and forensic investigations to crack passwords.
+- Their own name or the name of a family member
+- Their pet’s name
+- Their birth date
+- Words related to their hobbies
+- Parts of their home address
+- Favorite books or movies
+- Celebrity names
+- The name of the website the password is for
 
-# Usage
+```
+ This program is an interactive list generator that will create a password wordlist that can be used in penetration testing and forensic investigations to crack passwords:big_grin:.
+```
 
-Run the interactive program with:
+### Usage
 
-```$python passlist.py```
+Run the program on your terminal with:
 
-The password list will be created in the same folder in .txt
+```$ python passwordlist.py```
 
-Requirements
-Python 3
+- The password list will be created in the same folder in .txt
 
-Credits: https://github.com/utpalbalse
+### Requirements
+- Python 3
