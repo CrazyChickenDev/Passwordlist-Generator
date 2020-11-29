@@ -3,7 +3,7 @@
 # Passwordlist-Generator:key:
 <p align="left"> <img src="https://img.shields.io/github/license/CrazyChickenDev/Passwordlist-Generator" alt="crazychickendev" /></p>
 
-A simple python program that takes in a collection of data given to it, then generates possible password combinations that can be gotten from those details that were fed into it. This program was created for educational purposes and as a security research tool.
+A python code that collates a list of data fed into it then generates possible and most suitable randomised password combinations gotten from those details fed into it. Data collated includes those found on social media accounts, personal bios and events/experiences. The conclusive information can be used potentially by cyber-security researchers, penetration testers and other professionals in the InfoSec field. This code also serves it's the purpose in threat management and detection institutions for either the malicious intent to crack passwords or solve cyber-threat situations. My idea behind the writing of this code was to implement social-engineering practices in cracking passwords and breaking through personal or institutional defences by having just a little amount of information about the situation. The code would aid penetration testers at being able to collectively deduce possible passwords and instances without getting involved with the targeted party. This program was created for educational purposes and as a security research tool.
 
 ### About:grin:
 
